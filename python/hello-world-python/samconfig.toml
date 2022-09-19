@@ -2,9 +2,9 @@ version = 0.1
 [default]
 [default.deploy]
 [default.deploy.parameters]
-stack_name = "hello-world-python"
+stack_name = "helello-world-python-sam"
 s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-hxdnmivlny6e"
-s3_prefix = "hello-world-python"
+s3_prefix = "helello-world-python-sam"
 region = "eu-west-1"
 confirm_changeset = true
 capabilities = "CAPABILITY_IAM"
